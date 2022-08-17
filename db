@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Toàn",
+      "email": "toan@example.com",
+      "phone": "091912345671"
+    },
+    {
+      "id": 2,
+      "name": "Tùng",
+      "email": "tung@example.com",
+      "phone": "091912345672"
+    },
+    {
+      "id": 3,
+      "name": "Tú",
+      "email": "tu@example.com",
+      "phone": "091912345674"
+    },
+    {
+      "name": "xuan hung",
+      "email": "hungmx@uit.edu.vn",
+      "phone": "9999",
+      "id": 4
+    }
+  ]
+}
